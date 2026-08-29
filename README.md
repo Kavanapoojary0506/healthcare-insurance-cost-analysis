@@ -11,6 +11,11 @@ Smoking status has a dramatic effect on cost — smokers pay an average of $32,0
 - Verified the finding using SQL (SQLite) queries
 - Visualized the result using Python (pandas + matplotlib)
 
+## Files in this Repository
+- `insurance.csv` — raw dataset
+- `project_graph_smoker_health_insurance_.png` — chart showing the cost difference
+- SQL query screenshot — shows the import and verification in SQLite
+
 ## Tools Used
 Excel, SQL (SQLite), Python (pandas, matplotlib)
 
